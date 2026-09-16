@@ -1,4 +1,4 @@
-<?php
+<?php 
     $salario_bruto_sem_desconto=0;
     $salario_liquido=0;
 
