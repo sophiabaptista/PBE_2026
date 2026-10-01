@@ -1,0 +1,20 @@
+<?php
+
+class Celular{
+    public $titular;
+    public $numero;
+    public $saldo;
+    public $tipo;
+
+    function depositar($valor){
+        $this->saldo =$this->saldo + $valor;
+        echo "O saldo aumentou para $this->saldo";
+    }
+    function sacar($valor){
+        $this->saldo = $this->saldo - $valor;
+        echo "O saldo resultou em $this->saldo";
+    }
+    function consutarSaldo(){
+        echo "O valor do saldo é de $this->saldo";
+    }
+}
