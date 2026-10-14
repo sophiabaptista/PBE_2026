@@ -52,7 +52,7 @@ class NotaFiscal {
 }
 
 // Criando um pedido
-$pedido = new Pedido("Maria");
+$pedido = new Pedido("Sophia"); 
 
 // Adicionando itens ao pedido
 $pedido->adicionarItem(100);
