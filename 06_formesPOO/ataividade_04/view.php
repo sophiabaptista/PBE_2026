@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>ATIVIDADE 04 - Matrícula PowerFit</title>
+    <title>Matrícula PowerFit</title>
 </head>
 <body>
     <h2>Academia PowerFit - Matrícula</h2>
